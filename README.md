@@ -25,7 +25,6 @@ EPAM project - 26/
 │   └── README.md
 │
 ├── Assignment-2_DataStructures/
-│   ├── Array/
 │   ├── Tree/
 │   └── Graph/
 │
