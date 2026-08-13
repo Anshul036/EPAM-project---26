@@ -1,4 +1,3 @@
-# EPAM-project---26
 # EPAM Student Program – 2026
 
 Repository containing assignments and projects completed as part of the **EPAM Student Program 2026**.
@@ -9,7 +8,7 @@ Repository containing assignments and projects completed as part of the **EPAM S
 | ------------ | --------------- | ---------------------------- | ----------- |
 | Assignment 1 | 31-Jul – 04-Aug | JavaScript Case Study        | ✅ Completed |
 | Assignment 2 | 05-Aug – 09-Aug | Data Structures              | ✅ Completed |
-| Assignment 3 | 10-Aug – 13-Aug | Greedy & Dynamic Programming | 🔄 Upcoming |
+| Assignment 3 | 10-Aug – 13-Aug | Greedy & Dynamic Programming | ✅ Completed |
 
 ## 📂 Repository Structure
 
@@ -24,7 +23,12 @@ EPAM-project---26/
 │
 ├── Assignment-3_Greedy_DP/
 │   ├── Greedy/
+│   │   ├── Main.java
+│   │   └── README.md
+│   │
 │   └── DP/
+│       ├── Main.java
+│       └── README.md
 │
 └── README.md
 ```
@@ -36,6 +40,27 @@ EPAM-project---26/
 * HTML
 * CSS
 * Git & GitHub
+
+## 🧠 Topics Covered
+
+### Assignment 1
+
+* JavaScript
+* HTML & CSS
+* Case Study
+
+### Assignment 2
+
+* Data Structures
+* Trees
+* Graphs
+
+### Assignment 3
+
+* Greedy Algorithms
+* Dynamic Programming
+* Brute Force
+* Time & Space Complexity
 
 ## 👨‍💻 Author
 
